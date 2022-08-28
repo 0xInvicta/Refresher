@@ -20,13 +20,13 @@ Note: Time is in milliseconds<br />
 The executable can be found here on github in: <br />
 ``
 /Refresher/bin/Debug/Refresher.exe
-``
+``<br />
 ``
 /Refresher/bin/Debug/Refresher.exe.config
-``
+``<br />
 ``
 /Refresher/bin/Debug/Refresher.pdb
-``
+``<br />
 <br />
 <br />
 ![screenshot3](screenshots/Screenshot4.png)<br />
