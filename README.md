@@ -1,4 +1,4 @@
 # Refresher
 Author: Matuesz Peplinski
-Use:
-Auto Webpage Refresher 
+<br /> 
+Tool:Auto Webpage Refresher 
