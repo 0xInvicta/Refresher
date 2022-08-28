@@ -4,3 +4,4 @@ Author: Mateusz Peplinski
 Tool:Auto Webpage Refresher 
 <br />
 ![Application.exe](screenshots/Screenshot1.png)
+(Screenshot when Thread.Sleep() was set to 5seconsds [Above])
