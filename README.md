@@ -4,7 +4,7 @@ Author: Mateusz Peplinski
 Tool: Auto Webpage Refresher 
 <br />
 <br />
-### The Executable:
+### The Description:
 The tool will bring up the selected browser on top of all the running programs with the refreshed webpage after set amount of time. <br />
 
 ![main](screenshots/Screenshot1.png) <br />
