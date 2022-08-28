@@ -26,7 +26,7 @@ The executable can be found here on github in: <br />
 ``<br />
 ``
 /Refresher/bin/Debug/Refresher.pdb
-``<br />
+``
 <br />
 <br />
 ![screenshot3](screenshots/Screenshot4.png)<br />
