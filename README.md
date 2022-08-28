@@ -1,9 +1,12 @@
 # Refresher
 Author: Mateusz Peplinski
 <br /> 
-Tool:Auto Webpage Refresher 
+Tool: Auto Webpage Refresher 
 <br />
 <br />
+### The Executable:
+The tool will bring up the selected browser on top of all the running programs with the refreshed webpage after set amount of time. <br />
+
 ![main](screenshots/Screenshot1.png) <br />
 Screenshot when 'Thread.Sleep()' was set to 5 seconsds (Above)<br />
 ### Editing The Source Code:
